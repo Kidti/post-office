@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "from": "John Doe",
+    "to": "Angus Dulbirode",
+    "message": "I love you bro!",
+    "reference": 256134
+  },
+  {
+    "id": 2,
+    "from": "Vicus Gertrebell",
+    "to": "Alpadore LoJay",
+    "message": "Coming home.",
+    "reference": 369587
+  },
+  {
+    "id": 3,
+    "from": "Trif Boolkin",
+    "to": "Amus Johnsson",
+    "message": "HeyHooo",
+    "reference": 857412
+  },
+  {
+    "id": 4,
+    "from": "Vicus Leopoldinum",
+    "to": "Bretmin Lopridam",
+    "message": "Look at my horse, my horse is amazing!",
+    "reference": 325647
+  },
+  {
+    "id": 5,
+    "from": "Peter Jackson",
+    "to": "Marie Odalein",
+    "message": "I love you",
+    "reference": 256135
+  },
+  {
+    "id": 6,
+    "from": "Peter Jackson",
+    "to": "Marie Odalein",
+    "message": "I love you",
+    "reference": 256137
+  },
+  {
+    "id": 7,
+    "from": "Me",
+    "to": "To You",
+    "message": "This message",
+    "reference": 256958
+  },
+  {
+    "id": 8,
+    "from": "Lilu",
+    "to": "Lajos",
+    "message": "Szia Lajos",
+    "reference": 63598
+  },
+  {
+    "id": 9,
+    "from": "Tolem",
+    "to": "Neked",
+    "message": "Szia",
+    "reference": 256139
+  },
+  {
+    "id": 10,
+    "from": "Kazmer",
+    "to": "Bela",
+    "message": "Hi mate, howdy?",
+    "reference": 748596
+  },
+  {
+    "id": 11,
+    "from": "Hello Bello",
+    "to": "Marie Odalein",
+    "message": "I love you",
+    "reference": 5655656
+  },
+  {
+    "id": 12,
+    "from": "Ksdflksdf",
+    "to": "Marie Odalein",
+    "message": "I love you",
+    "reference": 565566
+  },
+  {
+    "id": 13,
+    "from": "Ksdflksdf",
+    "to": "Marie Odalein",
+    "message": "I love you",
+    "reference": 565569
+  },
+  {
+    "id": 14,
+    "from": "dfg",
+    "to": "dfgd",
+    "message": "dfgdf",
+    "reference": 45654654
+  },
+  {
+    "id": 15,
+    "from": "jhjh hjh",
+    "to": "dddd ",
+    "message": "dfg ",
+    "reference": 658965
+  },
+  {
+    "id": 16,
+    "from": "tzjf",
+    "to": "fghfg",
+    "message": "dfgdfg",
+    "reference": 4546
+  },
+  {
+    "id": 17,
+    "from": "dfg",
+    "to": "dfg",
+    "message": "dfg",
+    "reference": 54654
+  },
+  {
+    "id": 18,
+    "from": "dfg",
+    "to": "dfg",
+    "message": "dfgdfg",
+    "reference": 4564564
+  },
+  {
+    "id": 19,
+    "from": "ert",
+    "to": "ert",
+    "message": "ert",
+    "reference": 456456
+  },
+  {
+    "id": 20,
+    "from": "fghfgh",
+    "to": "fghfg",
+    "message": "hfghfg",
+    "reference": 6565566
+  }
+]

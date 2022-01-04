@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@400;600&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Dosis', sans-serif;
+}
+
+body{
+    background-color: rgb(205, 198, 165);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/3d/Envelope-letter-icon.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+#button-container{
+    display: flex;
+    justify-content: space-evenly;
+    
+    border: 2px solid rgb(141, 159, 135);
+    background-color: rgb(141, 167, 141);
+    border-radius: 5px;
+    width: 80%;
+    margin: auto;
+
+}
+
+.btn{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+
+    background-color:#6ab64afd;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    box-shadow: 2px 2px 2px rgb(6, 53, 4);
+    border-color: rgb(81, 194, 96);
+    font-size: 20px;
+}
+
+.mailContainer{
+    width: auto;
+    height: auto;
+
+    border: 1px solid rgb(149, 179, 151);
+    border-radius: 4px;
+    background-color: rgb(252, 252, 252);
+
+}
+
+.mails{
+    border: 2px solid red;
+}
+
+#sendBtn{
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+
+    background-color:#074eab;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    border-color: rgb(1, 21, 199);
+    box-shadow: 2px 2px 2px rgb(9, 10, 99);
+    font-size: 16px;
+}
+
+#refnumber{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.input-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    height: 150px;
+}
+
+input{
+    height: 2em;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 3px;
+}
